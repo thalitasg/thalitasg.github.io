@@ -608,6 +608,13 @@ footer .footer-custom-content {
 
 /* Tags page */
 
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: #FCC4D4 !important;]
+  border-color: #FCC4D4;
+  border: none;
+  color: #5C283A;
+}
+
 .tag-btn {
   margin: 0.3125rem;
 }

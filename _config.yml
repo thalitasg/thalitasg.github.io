@@ -21,6 +21,7 @@ author: Thalita Galvão
 
 navbar-links:
   Blog: "/"
+  Tags: "tags"
   About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
