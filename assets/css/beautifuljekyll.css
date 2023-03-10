@@ -64,7 +64,7 @@ hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
-  border-color: #FCC4D4;
+  border-color: #61457C;
   border-radius: 0.1875rem;
 }
 
@@ -315,7 +315,7 @@ img {
 .navbar-custom .navbar-nav .nav-link:focus,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#2D0651" }};
 }
 
 .navbar-custom .avatar-container {
