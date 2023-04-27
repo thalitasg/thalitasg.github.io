@@ -1,4 +1,12 @@
-##CONCEITOS DE PROBABILIDADE
+---
+layout: post
+title: Probabilidade básica
+subtitle: 
+tags: [Probabilidade e estatistica]
+comments: true
+---
+
+#CONCEITOS DE PROBABILIDADE#
 
 O cálculo de probabilidade envolve a determinação da chance de um evento ocorrer. 
 Para calcular a probabilidade de algo, é necessário conhecer o espaço amostral, que é o conjunto de todos os possíveis resultados de um experimento aleatório, e o evento em questão, que é um subconjunto do espaço amostral.
